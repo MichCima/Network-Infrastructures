@@ -1,0 +1,5 @@
+Command for ssh port forwarding:
+
+from pc1  ssh -NL localhost:7000:200.0.0.6:1194 myuser2@150.0.0.250
+
+password for launch of VPNs is: password
